@@ -1,0 +1,37 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+.photo{
+  margin-top: 1200px;
+  text-align: center;
+}
+.col{
+  margin-bottom: 10px;
+}
+.four{
+  margin-bottom: 10px;
+  margin-right:-100px;
+  position: relative;
+  left:125px;
+}
+.Facility{
+  padding-bottom:20px;
+  padding-top:10px;
+  text-align: center;
+  color:white;
+}
+.Facility:hover{
+  color:blue;
+}
+.gallerys{
+  height: 500px;
+  text-align: center;
+}
+.img-fluid{
+border: solid gray 1px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img-fluid:hover{
+filter: brightness(80%);
+}
